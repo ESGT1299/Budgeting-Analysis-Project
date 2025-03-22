@@ -78,20 +78,21 @@ Python Notebooks: In notebooks/, see the data cleaning and exploratory analysis.
 
 Tableau Dashboard: Open in the web [here](https://public.tableau.com/views/DashboardBudgetingProject/MarketingCampaignFinancialDashboard20152019?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Usage:
+### 6. Usage:
 
 Personal Budgeting: Replace bank.csv with your own statement (ensure consistent column naming).
 
 Portfolio Demonstration: Use the included sample data to show your financial analysis process.
 
-Requirements
+### 7.Requirements:
+
 Python 3.8+
 
 PostgreSQL (for database loading)
 
 Tableau (for dashboard viewing)
 
-## 6. Contribution & Contact
+## 8. Contribution & Contact
 
 This project is a key component of my **Financial Data Science Portfolio**. It demonstrates my expertise in quantitative analysis, data cleaning, data transformation, and data visualization through an end-to-end budgeting analysis workflow using real-world bank transaction data.
 
