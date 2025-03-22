@@ -10,21 +10,30 @@ This project demonstrates an end-to-end budgeting and financial analysis workflo
 ## Folder Structure
 
 Budgeting Analysis/ 
+
 ├── data/ │
+
     ├── bank.csv # Raw data │ 
     ├── cleaned_bank.csv │
 ├── notebooks/ │ 
+
     ├── 01_data_cleaning.ipynb │ 
     └── 02_eda_and_visuals.ipynb 
 ├── scripts/ │ 
+
     ├── clean_data_and_load.py │ 
     └── categorize_transactions.py 
-├── Dashboard.twbx # Tableau packaged workbook 
-├──sql
+├── Dashboard.twbx
+
+├──sql│ 
+
     ├──queries
 ├── venv/ 
+
 ├── README.md 
+
 ├── .gitignore  
+
 └── requirements.txt
 
 ## Features
@@ -84,7 +93,7 @@ Personal Budgeting: Replace bank.csv with your own statement (ensure consistent 
 
 Portfolio Demonstration: Use the included sample data to show your financial analysis process.
 
-### 7.Requirements:
+### 7. Requirements:
 
 Python 3.8+
 
@@ -101,5 +110,7 @@ For any questions or to discuss potential collaborations, please feel free to re
 
 
 **Name:** Erick Guagua
-**email:** erick.guagua@yachaytech.edu.ec
+
+**Email:** erick.guagua@yachaytech.edu.ec
+
 **Contact:** [Linkedin](https://www.linkedin.com/in/erick-guagua-14b143214/)
